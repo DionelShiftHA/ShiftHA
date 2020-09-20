@@ -1,0 +1,1 @@
+1_00: Datos relevantes de los examenes. SiglaExamen, material, recipiente, sector, Etc. 

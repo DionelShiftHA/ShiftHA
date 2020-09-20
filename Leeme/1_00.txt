@@ -1,0 +1,6 @@
+- La consulta consulta trae informacion de los examenes. A la misma se le puede agregar un WHERE para filtrar por un 
+dato en particula. 
+- Tiene un join con TblExame_Recipientes y dado.TblRecipiente  para poder accedes a los recipientes del examen.
+- Datos: CodigoExamen--SiglaExamen--DescripcionExamen--CodigoMaterial--DescripcionMaterial--CodigoRecipiente--DescricpionRecipiente--
+         OrdenImpresion--CodigoSector--DescricpionSector--TipoDePlazo--Plazo--PlazoMinimoTipo--PlazoMinimo
+-Creacion 11092020 SHIFTHA
