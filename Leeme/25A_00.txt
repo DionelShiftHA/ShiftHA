@@ -1,0 +1,5 @@
+- La consulta trae datos de las tablas de precio y los examenes asociados 
+- (CON FUENTE PAGADORA)
+- Datos: CodigoExamen--SiglaExamen--Descripcion--CodigoTPrecio--TablaPrecios--EstadoTablaPrecios--CodigoDP--CH - Ctde--CH - %--
+         Fontes pagadoras
+- Actualizada 14052020 SHIFTHA 

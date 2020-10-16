@@ -1,0 +1,4 @@
+- La consulta trae datos del convenio y la unidad financiera
+- que tiene asignada.
+- Datos: CodigoUF--DescripcionUF--ValorAtualUF--CodigoConvenio--SiglaConvenio--DescripcionConveio
+- Creacion 08092020

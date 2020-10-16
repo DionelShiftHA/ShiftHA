@@ -1,0 +1,2 @@
+- La consulta trae datos de las etiquetas pre impresas. 
+- Datos: Lote--Fecha--Hora--Responsable--SIGLA--Destinatario--ETIQUETA

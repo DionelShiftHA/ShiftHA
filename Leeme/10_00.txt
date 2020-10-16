@@ -1,0 +1,3 @@
+- La consulta trae datos de los exámenes y tiempos de proceso. Ademas las instrucciones de envió y el método del proceso analítico
+- Datos: Codigo--Sigla--Descripcion--UtilizaRutina--TipoDePlazo--Plazo--PlazoMinimoTipo--PlazoMinimo--Instruccion--Metodo--
+- Creación 26052020 SHIFTHA

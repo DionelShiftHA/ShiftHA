@@ -1,0 +1,7 @@
+--FINAL CON PARAMETRO
+--La siguiente consulta trae resultados de covid 19 para los examenes pasados en el 
+--where de la consulta
+--LA CONSULTA SE PUEDE UTILIZAR PARA CUALQUIER EXAMEN
+- Datos: NombrePaciente--Nacionalidad--NumeroDeLaOS--DNI--SiglaExamen--DescripcionExamen--SiglaParametro--DescripcionParametro--Examen--
+         FechaFirma--HoraFirma--Resultado
+--Actualizada 29072020

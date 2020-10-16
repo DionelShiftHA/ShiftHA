@@ -1,0 +1,4 @@
+- La consulta trae datos de la facturacion. 
+- Cantidad de recipientes, cantidad de examenes, valores facturados. 
+- Datos: Grupo--Convenio--Bairro--Cantidad de OS--Cantidad de Recipientes--Cantidad de Exámenes--Valor bruto Facturado
+- Valor bruto Ventanilla--Valor recibido Ventanilla

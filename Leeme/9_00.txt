@@ -1,0 +1,4 @@
+- La consulta trae la unidad de coleta, el convenio y la cantidad de OS cargadas
+- para ese convenio en un determinado tiempo
+- Datos: UnidadeColeta--Convenio--Cantidad de OS
+- Creacion 21052020 shfitHA 

@@ -1,0 +1,6 @@
+- La consulta tre los datos de plazos en los examenes
+- Si tiene rutina, traera la descripcion del plazo
+- Si el plazo minimo esta en horas se realiza un convert a varchar para convertir los
+  segundos a horas
+- Datos: Codigo--Sigla--Descripcion--UtilizaRutina--TipoDePlazo--Plazo--PlazoMinimoTipo--PlazoMinimo
+- Creacion 14052020 SHIFHA

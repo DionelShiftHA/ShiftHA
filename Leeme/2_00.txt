@@ -1,0 +1,3 @@
+- La consulta trae datos de medicos que tengan telefono celular cargado.
+- Tipo 3 indica que el numero es un celular. Ademas de los datos de barrio y ciudad
+- Datos: TipoMatricula--Matricula--ApellidoNombre--Especialidad--Mail--CodArea--Tel--TipoTelefono--Bairro--Cidade

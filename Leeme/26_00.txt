@@ -1,0 +1,9 @@
+- La consulta trae Datos del paciente y la OS para examen de Covid19. Ademas trae
+  datos de alta de muestra y comentarios adicionales de la os. Se Separa en 2 comentarios 
+  para poder traerlos en la subconsulta.
+- El where tiene un select par poder filtrar por la fecha de firma
+- LOS PARAMETROS DE ENTRADA SON FECHA DE FIRMA
+- (SE PUEDE UTILIZAR PARA CUALQUIER EXAMEN)
+- Datos: FechaOS--OS--NombrePaciente--DNI--Data triagem--SiglaExamen--FechaFirma--Resultado--Convenio--MedicoSolicitante--
+         ComentarioAdicional--Telefono--Direccion--Altuira
+- Actualizada 27082020

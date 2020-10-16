@@ -1,0 +1,4 @@
+- La consulta trae datos de examen con el recipient y el subrecipiente plazo de examen, etc.
+- Datos: Código--Sigla--DescripciónExamen--DescripciónOnline--Sinónimo--Estado--Material--Id Recipiente--Descripcion--
+         Recipiente--Id SubRecipiente--Descripcion--SubRecipiente--SectorEstandar--SectorComplementar--Plazo--PlazoMinimo
+- Creacion 08092020

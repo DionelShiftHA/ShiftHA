@@ -1,0 +1,4 @@
+--La consulta trae datos del degistro de la OS.
+--ORDEN DE LOS PARAMETROS: FechaInicio, FechaFin, CodigoConvenio
+- Datos: NroOS--Paciente--CI--FechaOS--Tipo--Mutualista--NombreResidencial--DireccionTecnica--TelefonoDT
+- Actualizada 05052020 SHIFTHA

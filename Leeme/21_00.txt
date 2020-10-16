@@ -1,0 +1,6 @@
+- La consulta trae datos de facturacion. Tiene 2 union para anexar las consultas de acuerdo
+- a el proceso en que se encuentra la factura.
+- Se agrega el valor actual de la unidad financiera.
+- Parametros de entrada fecha de facturacion
+- Datos: Fonte pagadora--APELIDO--Fonte pagadora--Grupo--Status fatura--Fatura--Valor--Qtd OS--Qtd Procedimentos--ValorActual
+- Actualizada 21072020 SHIFTHA

@@ -1,0 +1,5 @@
+- La consulta trae todos los convenios que tienen asociada la tabla de precio... 
+  pasada por parámetro.
+- Como parámetro se debe pasar el código de la tabla de precios
+- Datos: CodigoTPrecio--TablaPrecio--EstadoTPrecio--CodigoConvenio--Apelido--NomeFantasia--ValorActual--Status
+- Consulta creada 12022020 - Actualizada 14052020 SHIFTHA 

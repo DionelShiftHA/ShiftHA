@@ -1,0 +1,4 @@
+- La consulta trae la O.S con datos del paciente
+- Como parametros hay que pasarle rango de decha de registro de la O.S
+- Datos: OS--FechaOS--NombrePaciente--FechaNacimiento--DNI
+- Creada 04062020 SHIFTHA

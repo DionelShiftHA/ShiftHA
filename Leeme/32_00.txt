@@ -1,0 +1,4 @@
+- La consulta trae registro de la OS con el mail que se registro en el momento de la carga
+- Ademas trae datos de la ficha del paciente.
+- Datos: FechaOS--OS--Paciente--Telefono--Email--MailRegistradoEnOS
+- Creacion 27082020 SHIFTHA

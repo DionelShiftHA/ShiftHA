@@ -1,0 +1,6 @@
+- La consulta trae datos de la facturacion. Un resumen mostrando 
+  cantidad de ordenes de medicos para la OS. Cantidad de OS valor facturado. 
+- El from esta armado por subconsultas que arman la tabla que se pasara al select principal.
+  Parametros de entrada: Fecha Inicio Fin
+- Datos: Unidad--Procedencia--Convenio--CantidadOrdenes--CantidadOS--CantidadExamenes--ValorBrutoFacturado
+- CREACION 05102020 SHIFTHA

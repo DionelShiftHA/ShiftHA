@@ -1,0 +1,8 @@
+- La consulta trae datos de paciente y resultados sobre covid
+- Se agrega filtro de status y filtro RES.LogAssinaturaId IS NOT NULL
+- Sin el filtro RES.LogAssinaturaId IS NOT NULL no trae el actual resultado.. 
+- Siempre que haya sido modificado. Es por ello que se necesita ese filtro
+- (SE PUEDE UTILIZAR PARA CUALQUIER EXAMEN)
+- Datos: NombrePaciente--DNI--FechaOS--NroOS--Convenio--MedicoSolicitante--SiglaExamen--DescripcionExamen--SiglaParametro--
+         DescripcionParametro--Resultado
+- Actualizada 27082020

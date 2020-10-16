@@ -1,0 +1,3 @@
+- La consulta trae datos de los convenio con su grupo y la unidad financiera 
+- Datos: CodigoConvenio--SiglaConvenio--DescripcionConveio--EstadoConvenio--Grupo--TablaPrecio--EstadoTPrecio--ValorActual
+- Creada 04062020 SHIFTHA

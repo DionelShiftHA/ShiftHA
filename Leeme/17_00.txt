@@ -1,0 +1,6 @@
+- La consulta trae resultados de los exámenes con código :(1505,1506,1508)
+- En caso de ser necesario se debe agregar los nuevos códigos a la consulta. Se utilizo el CASE en el 
+  select para evitar los errores que trae el NVL.
+- La condición ES.Processo <> 1 evita traer el formato de comunicación del analizador
+- Datos: FechaOS--NumeroDeLaOS--SiglaExamen--DescripcionExamen--SiglaParametro--DescripcionParametro--Resultado
+- 03072020 SHIFTHA

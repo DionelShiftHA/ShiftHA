@@ -1,0 +1,3 @@
+--La consulta trae datos del convenio con el FechaTipoCierre y el Dia
+- Datos: CodigoConvenio--SiglaConvenio--DescripcionConvenio--TipoFechaCierre--Dia
+- Actualizada 27082020

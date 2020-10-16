@@ -1,0 +1,4 @@
+- La siguiente consulta trae datos de los convenios y el cliente PJ
+- Los datos del convenio los rae de la tabla convenio y el cliente PJ de  la tabla dado.TblPessoaJuridica
+- Datos: CodigoConvenio--SiglaConvenio--DescripcionConveio--ClientePJ--RazaoSocial--Grupo--EstadoConvenio
+- Creacion 02072020 SHIFTHA

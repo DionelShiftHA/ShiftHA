@@ -1,0 +1,10 @@
+--La consulta trae datos de la OS  y paciente e indica si hay deuda en la os.
+-- En una columna muestra la deuda de los examenes Covid, y en otra la deuda total
+--en caso que asi sea. 
+--Se agrego la condicion de iva del paciente. Con una subconsulta para llegar hasta la tabla de items
+--y cruzarlo con la respueta de dado.TblOsDadoCadastral
+--Se creo una subconsulta para traer los resultados. Fue necesario abrir la consulta
+--ya que de otra manera no se podian relacionar los datos. Repitiendo datos de cobranza
+- Datos: CodigoOs--FechaOs--Usuario--Convenio--CondicionIVA--Paciente--DNI--Direccion--Altuira--Telefono--MedicoSolicitante--Debe--
+         DeudaCovid--DeudaTotalOS--PPPPP--COVID19--COVID19G--COVID19M
+- CREACION 28082020

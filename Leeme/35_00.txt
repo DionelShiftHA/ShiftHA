@@ -1,0 +1,6 @@
+- La consulta trae dATOS del paciente que autorizo las preguntas //solo imprime (3,7,9)//
+- Se agregan parámetros de fecha de entrada. Correspondientes a la 
+  fecha de OS.
+- Datos: FechadeOs--OS--ID--Nombre--DNI--Sexo--FechaNacimiento--Telefono--Email--CodigoRespuesta--Descripción3--Descripción7--
+         Descripción9--Estado
+- Creada Shiftha 21/08/2020

@@ -1,0 +1,5 @@
+- La consulta trae datos de la Getion de contrato. Convenio examen y datos de la Gestion de contrato 
+  siempre que el examen tenga gestion.
+- Datos: CodigoConvenio--SiglaConvenio--DescripcionConveio--TablaPrecio--CodigoExamen--Sigla--Descripcion--TablaPreciosGC--
+         EstadoTablaPreciosGC--UnidadFinancieraGC--%GC--QtdeGC
+- Creacion 09062020 SHIFTHA

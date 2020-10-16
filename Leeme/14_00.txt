@@ -1,0 +1,6 @@
+- La consulta trae datos de la facturacion. Un resumen mostrando cantidad de ordenes de medicos para la OS. 
+  Cantidad de OS valor facturado. 
+- El FROM esta armado por subconsultas que arman la tabla que se pasara al SELECT principal.
+- El case evalua si el campo resposta. Si el largo es = 10, hay un una sola orden. Si es = 21, hay 2. =32 hay 3.
+- Datos: Unidad--Procedencia--Convenio--CantidadOrdenes--CantidadOS--CantidadExamenes--ValorBrutoFacturado
+- Creacion: 05102020 SHIFTHA

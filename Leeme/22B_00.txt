@@ -1,0 +1,10 @@
+- FINAL SIN PARAMETRO
+- La siguiente consulta trae resultados de covid 19 para los examenes pasados en el 
+  where de la consulta
+- LA CONSULTA SE PUEDE UTILIZAR PARA CUALQUIER EXAMEN
+- Ademas tiene una subconsulta donde trae el dato de la fecha y hora de la ultima firma
+- Se agrega un CASE para determinar el departamente con un SubString
+- El where tiene un select par poder filtrar por la fecha de firma
+- LOS PARAMETROS DE ENTRADA SON FECHA DE FIRMA
+- Datos: NombrePaciente--Nacionalidad--OS--DNI--Examen--FechaFirma--HoraFirma--Resultado--Departamento
+- Actualizada 29072020

@@ -1,0 +1,2 @@
+- La consulta trae datos de los presupuestos, los cuales fueron convertidos en OS. 
+- Datos: CodPresupuesto--UsuarioPresupuesto--UsuarioOS--Paciente--FechaPresupuesto--FechaOS--CodigoOs--Convenio--Valor

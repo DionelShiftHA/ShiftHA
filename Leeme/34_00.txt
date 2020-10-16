@@ -1,0 +1,3 @@
+- La consulta trae datos de los perfiles con los examenes que lo componen
+- Datos: CodigoPerfil--SiglaPerfil--DescripcionPerfil--SiglaExamenes--TipoPerfil
+- Creada 28052020 SHIFTHA

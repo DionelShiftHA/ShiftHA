@@ -1,0 +1,3 @@
+- La consulta trae resultados de Microbiologia. Se separa el resultado en tipo(Positivo,Negativo,Interno,Parcial)
+- Datos: FechaOS--OS--Paciente--Sigla--Examen--Material--Recipiente--Nro cbi--insumo--Accion--Microorganismo--Negativo--Interno--Parcial--Usuario--Fecha--Hora
+- Creacion 14102020 SHIFTHA
