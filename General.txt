@@ -1,1 +1,42 @@
 1_00: Datos relevantes de los examenes. SiglaExamen, material, recipiente, sector, Etc. 
+2_00: Datos de medicos que tengan telefono celular cargado.
+3_00: Datos de la facturacion.
+4_00: Datos de los presupuestos, los cuales fueron convertidos en OS.
+5_00: Datos de las etiquetas pre impresas. 
+6_00: Datos de facturacion y OS.
+7_00: Datos del la OS y paciente.
+8_00: Datos de tipo de envio y descripcion de envio.
+9_00: Trae la unidad de coleta, el convenio y la cantidad de OS cargadas.
+10_00: Datos de los exámenes y tiempos de proceso. Ademas las instrucciones de envió y el método del proceso analítico.
+11_00: Datos de los perfiles con los examenes que lo componen.
+12_00: Trae la O.S con datos del paciente.
+13_00: Datos de los convenio con su grupo y la unidad financiera, Valor actual.
+14_00: Datos de la facturacion. Un resumen mostrando cantidad de ordenes de medicos para la OS.
+15_00: Datos de los convenio con su grupo y la unidad financiera 
+16_00: Datos de plazos en los examenes. Si tiene rutina, traera la descripcion del plazo.
+17_00: Trae resultados de los exámenes con código :(1505,1506,1508). (SE PUEDE USAR CON CUALQUIER EXAMEN).
+18_00: Datos de los convenios y el cliente PJ.
+19_00: Trae resultados de Microbiologia. Se separa el resultado en tipo(Positivo,Negativo,Interno,Parcial).
+20_00: Datos de la Getion de contrato. Convenio examen y datos de la Gestion de contrato siempre que el examen tenga gestion.
+21_00: Datos de facturacion. Tiene 2 union para anexar las consultas de acuerdo.
+22A_00: Trae resultados de covid 19 para los examenes pasados en el where de la consulta.(SIN PARAMETROS)(SE PUEDE USAR CON CUALQUIER EXAMEN).
+22B_00: Trae resultados de covid 19 para los examenes pasados en el where de la consulta.(CON PARAMETROS)(SE PUEDE USAR CON CUALQUIER EXAMEN).
+23_00: Datos del degistro de la OS.
+24_00: Trae todos los convenios que tienen asociada la tabla de precio.
+25A_00: Datos de las tablas de precio y los examenes asociados (CON FUENTE PAGADORA).
+25B_00: Datos de las tablas de precio y los examenes asociados (SIN FUENTE PAGADORA).
+26_00: Datos del paciente y la OS para examen de Covid19. Ademas trae datos de alta de muestra y comentarios adicionales de la os.
+       (SE PUEDE USAR CON CUALQUIER EXAMEN).
+27_00: Datos de paciente y resultados sobre covid(SE PUEDE USAR CON CUALQUIER EXAMEN).
+28_00: Datos del convenio con el FechaTipoCierre y el Dia.
+29_00: Datos del paciente para un examen especifico.
+30_00: Datos de la OS  y paciente e indica si hay deuda en la os.
+31_00: Datos de la OS  y paciente e indica si hay deuda en la os. Se agrego la condicion de iva del paciente.
+32_00: Trae registro de la OS con el mail que se registro en el momento de la carga Ademas trae datos de la ficha del paciente.
+33_00: Datos de plazos en los examenes.
+34_00: Datos de los perfiles con los examenes que lo componen.
+35_00: Datos del paciente que autorizo las preguntas //solo imprime (3,7,9)//.
+36_00: Datos del convenio y la unidad financiera que tiene asignada.
+37_00: Datos de examen con el recipient y el subrecipiente plazo de examen, etc.
+38_00: Datos de los convenio con su grupo y la unidad financiera.
+39_00: Datos de la facturacion. Un resumen mostrando cantidad de ordenes de medicos para la OS. Cantidad de OS valor facturado.
