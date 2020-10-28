@@ -1,0 +1,6 @@
+- La consulta trae datos del paciente para un examen especifico
+- pasado como parametro de la consulta
+- PARAMETROS: FECHA INICIO,FECHAFIN,SIGLA EXAMEN
+- Datos: FechaOS--OS--SiglaExamen--Descripcion--Paciente--DNI--FechaNacimiento--Edad--Telefono--Direccion--Altuira--Email
+- CREACION 28082020 SHIFTHA
+- Actualizacion 27102020 SHIFTHA
