@@ -30,6 +30,7 @@
 27_00: Datos de paciente y resultados sobre covid(SE PUEDE USAR CON CUALQUIER EXAMEN).
 28_00: Datos del convenio con el FechaTipoCierre y el Dia.
 29_00: Datos del paciente para un examen especifico.
+29_01: Datos del paciente para un examen especifico(Se agrega Edad).
 30_00: Datos de la OS  y paciente e indica si hay deuda en la os.
 31_00: Datos de la OS  y paciente e indica si hay deuda en la os. Se agrego la condicion de iva del paciente.
 32_00: Trae registro de la OS con el mail que se registro en el momento de la carga Ademas trae datos de la ficha del paciente.
